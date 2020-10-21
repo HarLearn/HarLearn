@@ -10,7 +10,7 @@
     	<li>🧐 Interested in Backend Development</li>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Harlearn&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="HarLearn's Github Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Harlearn&show_icons=true&hide_border=true&include_all_commits=true&line_height=21" alt="HarLearn's Github Stats" />
 
 
 

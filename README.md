@@ -1,16 +1,16 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Harlearn&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
 
-<!--
-**HarLearn/HarLearn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey 👋, I'm Harlearn.</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ <p align="left">
+        <li>🎓 Bachelor of Computer Science and Technology</li>
+    	<li>🧐 Interested in Backend Development</li>
+</p>
+
+
+
+
+
